@@ -18,11 +18,11 @@ To run the program:
 ```
 $ cd ea-nuxt-app
 ```
-6. Install the dependencies:
+5. Install the dependencies:
 ```
 $ npm ci
 ```
-8. Start the Nuxt.js server:
+6. Start the Nuxt.js server:
 ```
 $ npm run dev
 ```
